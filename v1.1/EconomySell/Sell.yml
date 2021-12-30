@@ -1,0 +1,162 @@
+---
+82:70:270:sb:
+  x: 82
+  "y": 70
+  z: 270
+  level: sb
+  cost: 500000
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 0
+813:87:62:sb:
+  x: 813
+  "y": 87
+  z: 62
+  level: sb
+  cost: 2000
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 32
+815:87:62:sb:
+  x: 815
+  "y": 87
+  z: 62
+  level: sb
+  cost: 2000
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 32
+817:87:62:sb:
+  x: 817
+  "y": 87
+  z: 62
+  level: sb
+  cost: 2000
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 32
+819:87:62:sb:
+  x: 819
+  "y": 87
+  z: 62
+  level: sb
+  cost: 2000
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 32
+821:87:62:sb:
+  x: 821
+  "y": 87
+  z: 62
+  level: sb
+  cost: 2000
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+825:87:62:sb:
+  x: 825
+  "y": 87
+  z: 62
+  level: sb
+  cost: 2000
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 32
+823:87:62:sb:
+  x: 823
+  "y": 87
+  z: 62
+  level: sb
+  cost: 2000
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 32
+829:87:62:sb:
+  x: 829
+  "y": 87
+  z: 62
+  level: sb
+  cost: 30000
+  item: 397
+  itemName: Skull
+  meta: 0
+  amount: 1
+831:87:62:sb:
+  x: 831
+  "y": 87
+  z: 62
+  level: sb
+  cost: 80000
+  item: 397
+  itemName: Skull
+  meta: 1
+  amount: 1
+833:87:62:sb:
+  x: 833
+  "y": 87
+  z: 62
+  level: sb
+  cost: 80000
+  item: 397
+  itemName: Skull
+  meta: 2
+  amount: 1
+835:87:62:sb:
+  x: 835
+  "y": 87
+  z: 62
+  level: sb
+  cost: 80000
+  item: 397
+  itemName: Skull
+  meta: 3
+  amount: 1
+837:87:62:sb:
+  x: 837
+  "y": 87
+  z: 62
+  level: sb
+  cost: 80000
+  item: 397
+  itemName: Skull
+  meta: 4
+  amount: 1
+839:87:62:sb:
+  x: 839
+  "y": 87
+  z: 62
+  level: sb
+  cost: 100000
+  item: 397
+  itemName: Skull
+  meta: 5
+  amount: 1
+835:69:652:sb:
+  x: 835
+  "y": 69
+  z: 652
+  level: sb
+  cost: 0
+  item: 2
+  itemName: Grass
+  meta: 0
+  amount: 3000
+-320:71:-451:sb:
+  x: -320
+  "y": 71
+  z: -451
+  level: sb
+  cost: 99999999999999
+  item: 0
+  itemName: Air
+  meta: 0
+  amount: 0
+...

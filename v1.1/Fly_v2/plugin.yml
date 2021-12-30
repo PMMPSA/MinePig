@@ -1,0 +1,14 @@
+name: Fly
+main: Fly\Main
+api: 2.0.0
+version: 2.0
+author: DragonPlayzMC
+#Chỉnh Sửa Và Việt Hóa Bởi Ghast Noob
+commands:
+ fly:
+  description: Cho Phép Người Chơi Bay Lượn
+  permission: fly.command
+permissions:
+ fly.command:
+  default: op
+  description: Cho Phép Người Chơi Bay Lượn

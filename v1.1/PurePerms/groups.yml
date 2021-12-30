@@ -1,0 +1,247 @@
+---
+Guest:
+  alias: gst
+  isDefault: true
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - notp.command
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pperms.command.ppinfo
+  - sell.all
+  - sell.hand
+  worlds: []
+Admin:
+  alias: adm
+  inheritance:
+  - Guest
+  permissions:
+  - essentials.gamemode
+  - pets
+  - pocketmine.broadcast
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.size
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  - sell.all
+  - sell.hand
+  - size.command
+  worlds: []
+Owner:
+  alias: owr
+  inheritance:
+  - Admin
+  permissions:
+  - essentials
+  - pocketmine.command
+  - pperms.command
+  - sell hand
+  - sell.all
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  worlds: []
+Police:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - notp.cmd
+  - pocketmine.command.kick
+  - pocketmine.command.notp
+  - pocketmine.command.teleport
+  - sell.all
+  - sell.hand
+  worlds: []
+Helper:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - pocketmine.command.gamemode
+  - pocketmine.command.kick
+  - pocketmine.command.time
+  - sell.all
+  - sell.hand
+  worlds: []
+Builder:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - feed.command
+  - fly.command
+  - gmc.command
+  - gms.command
+  - heal.command
+  - pocketmine.command.gamemode
+  - sell.all
+  - sell.hand
+  worlds: []
+Youtuber:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - pocketmine.command.gamemode
+  - sell.all
+  - sell.hand
+  worlds: []
+VipI:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - feed.command
+  - fly.command
+  - heal.command
+  - sell.all
+  - sell.hand
+  worlds: []
+VipII:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - feed.command
+  - fly.command
+  - heal.command
+  - pocketmine.command.size
+  - sell.all
+  - sell.hand
+  - size.command
+  worlds: []
+VipIII:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - feed.command
+  - fly.command
+  - heal.command
+  - pocketmine.command.size
+  - pocketmine.command.time
+  - sell.all
+  - sell.hand
+  - size.command
+  worlds: []
+VipIV:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.comamnd
+  - pocketmine.command.gamemode
+  - pocketmine.command.size
+  - pocketmine.command.time
+  - sell.all
+  - sell.hand
+  - size.command
+  worlds: []
+Kmem:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - feed.command
+  - fly.command
+  - pocketmine.command.gamemode
+  - sell.all
+  - sell.hand
+  worlds: []
+Gay:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+Member:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+Coal:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - sell.all
+  - sell.hand
+  worlds: []
+Iron:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - sell.all
+  - sell.hand
+  - wingheart.command
+  worlds: []
+Gold:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - sell.all
+  - sell.hand
+  - winghappy.command
+  - wingheart.command
+  worlds: []
+Diamond:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - pets.command
+  - sell.all
+  - sell.hand
+  - wingenchant.command
+  - winghappy.command
+  - wingheart.command
+  worlds: []
+Master:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - notp.command
+  - pets.command
+  - pocketmine.command.teleport
+  - sell.all
+  - sell.hand
+  - size.command
+  - wingenchant.command
+  - winghappy.command
+  - wingheart.command
+  worlds: []
+King:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+BestBuilder:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+...

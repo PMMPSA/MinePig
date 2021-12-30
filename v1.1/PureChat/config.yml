@@ -1,0 +1,90 @@
+---
+version: 1.4.0-BETA-04
+default-factions-plugin: FactionsPro
+enable-multiworld-chat: false
+groups:
+  Guest:
+    chat: §b§l[§e{fac_name}§b] §9§l⚘§7§l﹏§fmєmвєr§7﹏§9⚘ {display_name} §a» §r{msg}
+      §a«
+    nametag: '§l§f[{fac_name}] §b•§rQuest§b• §f{display_name} '
+    worlds: []
+  Admin:
+    chat: §b§l[§e{fac_name}§b] §e❖︵§4§l༊§cᴀ§eᴅ§aм§bι§dɴ§5༄§e︵✰ §d{display_name}§c⊹⊱
+      §6{msg} §c⊰⊹
+    nametag: §l§b[§e{fac_name}§b] §l§a▶§6Admin§a◀ §f{display_name}
+    worlds: []
+  Owner:
+    chat: §l§b[§e{fac_name}§b] §l§a▶§9Owner§a◀ §f{display_name} §a⚒§b{msg}§a⚒
+    nametag: §l§b[§e{fac_name}§b] §l§a▶§9Owner§a◀ §f{display_name}
+    worlds: []
+  OP:
+    chat: '&3&l{prefix}&9[OP]&f&r {display_name} &7> {msg}'
+    nametag: '&3&l{prefix}&9[OP]&f&r {display_name}'
+    worlds: []
+  Police:
+    chat: §b§l[§e{fac_name}§b] §l§1✪§6...§b☯§e『§5§lƤøŁɪȼᴇ§e§l』§b§l☯§6...§1✪ §e{display_name}
+      §b→ §a{msg} §b←
+    nametag: §l§b[§e{fac_name}§b] §a•§cPolice§a• §f{display_name}
+  Helper:
+    chat: §b§l✇§c...§d§l『§aꜦҿɭƥᴇɼ§d§l』§c...§b§l✇ §a§l✿§c{display_name}§a§l✿ §1➟ §a♫
+      §d§l{msg} §a§l♫
+    nametag: §l§b[§e{fac_name}§b] §c•§aHelper§c• §f{display_name}
+  Builder:
+    chat: §l§b[§e{fac_name}§b] §l§a•§bBuilder§a• §f{display_name} §l§c▶§a{msg}§c◀
+    nametag: §l§b[§e{fac_name}§b] §l§a•§bBuilder§a• §f{display_name}
+  Youtuber:
+    chat: §b§l[§e{fac_name}§b] §d§l☘§a...§e『§fYｏｕ§4Tｕｂｅｒ§e』§a...§d§l☘ §e§l{display_name}
+      §e➠ §c{msg}
+    nametag: §l§b[§e{fac_name}§b] §e•§cYoutuber§e• §f{display_name}
+  VipI:
+    chat: §b§l[§e{fac_name}§b] §a§l⚒§d...§cღ§eᏉ§6Ꭵ§eᏢ§b-§4I§cღ§d...§a⚒ §e§l࿌§c{display_name}§e§l࿌
+      §5⚜ §e{msg} §5⚜
+    nametag: §l§b[§e{fac_name}§b] §l§fVip§bI §f{display_name}
+  VipII:
+    nametag: §l§b[§e{fac_name}§b] §l§fVip§bII §f{display_name}
+    chat: §b§l[§e{fac_name}§b] §a§l⚒§d...§cღ§eᏉ§6Ꭵ§eᏢ§b-§4II§cღ§d...§a⚒ §e§l࿌§c{display_name}§e§l࿌
+      §5⚜ §e{msg} §5⚜
+  VipIII:
+    chat: §b§l[§e{fac_name}§b] §a§l⚒§d...§cღ§eᏉ§6Ꭵ§eᏢ§b-§4III§cღ§d...§a⚒ §e§l࿌§c{display_name}§e§l࿌
+      §5⚜ §e{msg} §5⚜
+    nametag: §l§b[§e{fac_name}§b] §l§fVip§bIII §f{display_name}
+  VipIV:
+    chat: §b§l[§e{fac_name}§b] §a§l⚒§d...§cღ§eᏉ§6Ꭵ§eᏢ§b-§4I§6V§cღ§d...§a⚒ §e§l࿌§c{display_name}§e§l࿌
+      §5⚜ §e{msg} §5⚜
+    nametag: §l§b[§e{fac_name}§b] §l§fVip§bIV §f{display_name}
+  Kmem:
+    chat: §b§l࿇§d...§eღ§6Kɪɴɢ§cMᴇᴍʙᴇʀ§eღ§d...§b࿇ §6❛❜§c{display_name}§6❛❜  §e⊱ §c{msg}
+      §e⊰
+    nametag: §d§l•§e> §aKmem §e<§d•
+  Gay:
+    chat: §5§l•§dTrai Bao Một Thời§5• §c{display_name} §a→ §9{msg} §a←
+    nametag: '&8&l[Gay]&f&r {display_name}'
+  Member:
+    nametag: '&8&l[Member]&f&r {display_name}'
+    chat: '&8&l[Member]&f&r {display_name} &7> {msg}'
+  coal:
+    chat: §l§f[§7{fac_name}§f] §b•§0Coal§b• §l§f{display_name} §a»§f {msg} §a«
+    nametag: §l§f[§7{fac_name}§f] §b•§0Coal§b• §l§f{display_name}
+  Coal:
+    chat: §l§f[§6{fac_name}§f] §l§b•§eCoal§b• §l§f{display_name} §f» §7{msg}
+    nametag: §l§f[§6{fac_name}§f] §l§b•§eCoal§b• §l§f{display_name}
+  Iron:
+    nametag: §l§f[§6{fac_name}§f] §l§e•§fIron§e• §l§b{display_name}
+    chat: §l§f[§6{fac_name}§f] §l§e•§fIron§e• §l§b{display_name} §l§a•» §7{msg}
+  Gold:
+    nametag: §l§b[§e{fac_name}§b] §l§a•§eGold§a• §l§b{display_name}
+    chat: §l§b[§e{fac_name}§b] §l§a•§eGold§a• §l§b{display_name} §l§a•» §6{msg}
+  Diamond:
+    nametag: §l§c[§a{fac_name}§c] §l§d⚒§bDiamond§d⚒ §l§a{display_name}
+    chat: §l§c[§a{fac_name}§c] §l§d⚒§bDiamond§d⚒ §l§a{display_name} §l§6•» §e{msg}
+  Master:
+    nametag: §l§c[§6{fac_name}§c] §e༺§aMaster§e༻ §l§f{display_name}
+    chat: §l§c[§6{fac_name}§c] §e༺§aMaster§e༻ §l§f{display_name} §l§c»§b {msg} §c«
+  King:
+    nametag: '&8&l[King]&f&r {display_name}'
+    chat: '&8&l[King]&f&r {display_name} &7> {msg}'
+  BestBuilder:
+    chat: §l§c[§6{fac_name}§c] §l§e༄༂§aBest§7Builder§e༂࿐ §l§f{display_name} §c⊹⊱§b
+      {msg}§c ⊰⊹
+    nametag: §l§c[§6{fac_name}§c] §l§e༄༂§aBest§7Builder§e༂࿐ §l§f{display_name}
+...

@@ -1,0 +1,27 @@
+# SimpleAuth 1.4.0 language file
+
+join:
+ message1: "         §r§e༺§f ⌜§6Mine§9Pig§f⌟§e ༻\n§f-------------------------------"
+ message2: "§r§f❖§6 Đăng ký tài khoản miễn phí để chơi Máy Chủ!\n§f❖§a Đăng nhập mỗi khi vào máy chủ để chơi Máy Chủ!\n§f-------------------------------"
+ register: "§r§e» §9 Chào mừng đến với§a Mine§dPig\n§e» §b Dùng lệnh§c /register <password>§b để đăng ký tài khoản!\n§f-------------------------------"
+ login: "§f❖§e Dùng lệnh§6 /login <password>§e để đăng nhập!\n§f❖§6 Dùng lệnh§c /chpwd <old password>§6 làm theo hướng dẫn và có thể đỗi mật khẩu tài khoản!\n§f-------------------------------"
+ popup: "§r§c✖§f Bạn chưa đăng nhập, xin vui lòng đăng nhập."
+
+register:
+ usage: "Reg"
+ description: "Reg"
+ permission: "You do not have permission to use the register command!"
+ error:
+  password: "§9❖§c Mật khẩu quá ngắn. Vui lòng nhập đủ§e 8§6 chữ§c hoặc§6 số§c để đăng ký."
+  registered: "§c✖§l§7 Đăng ký không thành công."
+  general: "Error during authentication."
+
+login:
+ usage: "Login"
+ description: "Login"
+ permission: "You do not have permission to use the login command!"
+ success: "§a✔§b Đăng nhập thành công."
+ error:
+  password: "§c✖§6 Sai mật khẩu. Nếu đăng nhập sai nhiều lần sẽ bị đá khỏi máy chủ."
+  registered: "§f↪§c Tài khoản này chưa được đăng ký."
+  block: "§c✖§6 Bạn đã đăng nhập quá nhiều lần!"

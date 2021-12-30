@@ -1,0 +1,7 @@
+---
+sell:
+-  §l§b[§aBán§e Item§b]
+- '§l§aGiá: §l§e%1 %MONETARY_UNIT%'
+- '§l§aItem: §e%2'
+- '§l§aSố lượng : §l§e§l%3'
+...

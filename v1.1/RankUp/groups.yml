@@ -1,0 +1,46 @@
+---
+groups:
+  Coal:
+    entrance:
+    - setgroup {name} Coal
+    exit: []
+    perms: []
+    members: []
+  Iron:
+    entrance:
+    - setgroup {name} Iron
+    exit: []
+    perms: []
+    members:
+    - LocVlogTM
+  Gold:
+    entrance:
+    - setgroup {name} Gold
+    exit: []
+    perms: []
+    members: []
+  Diamond:
+    entrance:
+    - setgroup {name} Diamond
+    exit: []
+    perms: []
+    members: []
+  Master:
+    entrance:
+    - setgroup {name} Master
+    exit: []
+    perms: []
+    members:
+    - S5KaizoGaming
+    - Tea_Ho
+    - Pro
+    - MeoAnh
+    - Catlun_Girl
+    - cub_FA
+    - Phong_VN
+    - khoastr
+    - FBIayuto
+    - DV_008
+    - MSI_Ton
+    - an_nguyen
+...

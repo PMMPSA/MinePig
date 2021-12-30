@@ -1,0 +1,9 @@
+name: BuyKIT
+version: 1.0
+main: Phuongaz\Main
+author: Phuongaz
+api: 2.0.0
+
+commands:
+ muado:
+  default: true

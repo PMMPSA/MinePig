@@ -1,0 +1,26 @@
+groups:
+  Coal:
+    entrance: ["setgroup {name} Coal"]
+    exit: []
+    perms: []
+    members: []
+  Iron:
+    entrance: ["setgroup {name} Iron"]
+    exit: []
+    perms: []
+    members: []
+  Gold:
+    entrance: ["setgroup {name} Gold"]
+    exit: []
+    perms: []
+    members: []
+  Diamond:
+    entrance: ["setgroup {name} Diamond"]
+    exit: []
+    perms: []
+    members: []
+  Master:
+    entrance: ["setgroup {name} Master"]
+    exit: []
+    perms: []
+    members: []

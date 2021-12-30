@@ -1,0 +1,12 @@
+---
+- ID: 0
+  startX: 825
+  endX: 845
+  startZ: 77
+  endZ: 97
+  price: 44100
+  owner: funny_un
+  level: sb
+  invitee: []
+  expires: ~
+...

@@ -1,0 +1,26 @@
+---
+prefix: "MinePig"
+suffix: "[A]"
+time: 15
+sendmessage-format: "&e[{TIME}] &b[{PREFIX}] {SUFFIX} &a{SENDER}&e>&f {MESSAGE}"
+datetime-format: "H:i:s"
+broadcast-enabled: true
+messages:
+ - "§l§c⊹⊱§bMine§6Pig§c⊰⊹§e •§a Nếu Bạn Đào Full Inventory Hãy Ghi /sell all Để Bán Tất Cả Quặng"
+ - "§l§c⊹⊱§bMine§6Pig§c⊰⊹§e •§a Hãy Ghi /nhanqua Để Nhận Quà Nào!!!"
+ - "§l§c⊹⊱§bMine§6Pig§c⊰⊹§e •§a Bạn Muốn Mua Đồ Vip Nhất Có Thể Ghi /muado danhsach Để Xem Những Món Đồ Vip Và Số Tiền"
+ - "§l§c⊹⊱§bMine§6Pig§c⊰⊹§e •§a Mua Fly Bằng Lệnh /buyfly Để Fly K Cần Vip"
+ - "§l§c⊹⊱§bMine§6Pig§c⊰⊹§e •§a /buyec Để Enchant Dụng Cụ"
+ - "§l§c⊹⊱§bMine§6Pig§c⊰⊹§e •§a Cấm Hack Hoặc Cheat Trong Server"
+ - "§l§c⊹⊱§bMine§6Pig§c⊰⊹§e •§a Cấm Không Quảng Cáo Server Khác Hoặc Chửi Bậy Tục Sẻ Bị Ban IP"
+ - "§l§c⊹⊱§bMine§6Pig§c⊰⊹§e •§a Bạn Có Thể Ghi /khongtp để ng Khác K Tp Qua Bạn (lưu ý: Chỉ Áp Dụng Với Quest Còn Danh Hiệu Khác Không Có Phép Sửa Dụng)"
+ - "§l§c⊹⊱§bMine§6Pig§c⊰⊹§e •§a Cảm Ơn Bạn Đã Vô Server Và Ủng Hộ (◠‿◕)"
+popup-time: 15
+popup-duration: 5
+sendpopup-format: "&a{SENDER}&e>>&f {MESSAGE}"
+popup-broadcast-enabled: true
+popups:
+ - "&aWelcome to your server"
+ - "&d{TOTALPLAYERS} &eof &d{MAXPLAYERS} &eonline"
+ - "&bCurrent Time: &a{TIME}"
+...

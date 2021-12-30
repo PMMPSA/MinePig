@@ -1,0 +1,36 @@
+# Plugin RankUp Dành Cho PocketMine
+unleash-the-rankupdoesgroups: true
+# Nếu Bạn Đặt Thành false Thì RankUpDoesGroups Sẽ Không Được Tải
+# Điều Này Có Nghĩa Bạn Không Thể Đặt Nó Làm Người Quản Lý GroupManager
+# Rất Khuyến Khích Không Thay Đổi Điều Này
+preferred-economy: false
+# Đặt Nền Kinh Tế Ưa Thích Của Bạn
+# rankup\\economy\\Economy Và rankup\\economy\\PocketMoney Có Sẵn Theo Mặc Định
+# Đặt Thành false Để Tự Động Tải(Chỉ Các Nền Kinh Tế Hổ Trợ Chính Thức Mới Tự Động Tải)
+preferred-groupmanager: "rankup\\permission\\RankUpDoesGroups"
+# Đặt Người Quản Lý Group Ưa Thích Của Bạn
+# rankup\\permission\\RankUpDoesGroups Và rankup\\permission\\PurePerms Có Sẵn
+# RankUpDoesGroups Là Một Siêu Thay Thế Cho Những Người Không Sử Dụng PurePerms
+  
+  
+
+# Xác Định Tất Cả Các Rank Tại Đây:
+ranks:
+  Coal: 15000
+  Iron: 20000
+  Gold: 27000
+  Diamond: 120000
+  Master: 200000
+
+
+
+lang:
+  ranked-up-paid: "§e༺§dMinePig§e༻§a Chúc Mừng Bạn Đã Lên Rank:§e %s"
+  ranked-up-free: "§e༺§dMinePig§e༻§a Chúc Mừng Bạn Đã Lên Rank:§e %s"
+  group-add-error-paid: "§e༺§dMinePig§e༻§c Đã Có Lỗi Phát Sinh. Hãy Thông Báo OP Để Khắc Phục"
+  group-add-error-free: "§e༺§dMinePig§e༻§c Đã Có Lỗi Phát Sinh. Hãy Thông Báo OP Để Khắc Phục"
+  need-more-money-1: "§e༺§dMinePig§e༻§a Có Vẻ Như Bạn Không Đủ Tiền Để Lên Rank. Cố Gắng Lên Nhé!"
+  need-more-money-2: "§e༺§dMinePig§e༻§a Bạn Cần:§e %s §aXu Nữa Để Lên Rank"
+  missing-economy: "§e༺§dMinePig§e༻§c Đã Có Lỗi Phát Sinh. Hãy Thông Báo OP Để Khắc Phục"
+  have-max-rank: "§e༺§dMinePig§e༻§a Rank Của Bạn Đã Cao Nhất. Cảm Ơn Bạn Đã Tham Gia Máy Chủ!"
+  command-permission-error: "§e༺§dMinePig§e༻§c Đã Có Lỗi Phát Sinh. Hãy Thông Báo OP Để Khắc Phục"

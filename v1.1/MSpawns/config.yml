@@ -1,0 +1,18 @@
+---
+show-prefix: true
+show-messages-onjoin: true
+force-hub: false
+enable-hub-message: true
+hub-message: §l§bBạn Đã Về Sảnh Chính§a....
+force-spawn: false
+enable-spawn-message: true
+spawn-message: §l§bBạn Đã Về Sảnh Chính§a....
+enable-aliases: true
+hub:
+  world: sb
+  X: 90.602800
+  "Y": 70.000000
+  Z: 90.542500
+  Yaw: 91
+  Pitch: 15
+...

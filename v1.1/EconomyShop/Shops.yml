@@ -1,0 +1,1342 @@
+---
+245:69:462:sb:
+  x: 245
+  "y": 69
+  z: 462
+  level: sb
+  price: 16
+  item: 85
+  itemName: Oak Fence
+  meta: 0
+  amount: 1
+243:69:462:sb:
+  x: 243
+  "y": 69
+  z: 462
+  level: sb
+  price: 250
+  item: 8
+  itemName: Water
+  meta: 0
+  amount: 1
+241:69:462:sb:
+  x: 241
+  "y": 69
+  z: 462
+  level: sb
+  price: 1500
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 16
+239:69:462:sb:
+  x: 239
+  "y": 69
+  z: 462
+  level: sb
+  price: 500
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 16
+237:69:462:sb:
+  x: 237
+  "y": 69
+  z: 462
+  level: sb
+  price: 1000
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 16
+235:69:462:sb:
+  x: 235
+  "y": 69
+  z: 462
+  level: sb
+  price: 2500
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 16
+233:69:462:sb:
+  x: 233
+  "y": 69
+  z: 462
+  level: sb
+  price: 2000
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 16
+231:69:462:sb:
+  x: 231
+  "y": 69
+  z: 462
+  level: sb
+  price: 2500
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 16
+227:69:462:sb:
+  x: 227
+  "y": 69
+  z: 462
+  level: sb
+  price: 2100
+  item: 169
+  itemName: Sea Lantern
+  meta: 0
+  amount: 1
+225:69:462:sb:
+  x: 225
+  "y": 69
+  z: 462
+  level: sb
+  price: 200
+  item: 54
+  itemName: Chest
+  meta: 0
+  amount: 1
+223:69:462:sb:
+  x: 223
+  "y": 69
+  z: 462
+  level: sb
+  price: 999
+  item: 208
+  itemName: End Rod
+  meta: 0
+  amount: 16
+221:69:462:sb:
+  x: 221
+  "y": 69
+  z: 462
+  level: sb
+  price: 1600
+  item: 368
+  itemName: Ender Pearl
+  meta: 0
+  amount: 16
+221:69:457:sb:
+  x: 221
+  "y": 69
+  z: 457
+  level: sb
+  price: 5000
+  item: 444
+  itemName: Elytra Wings
+  meta: 0
+  amount: 1
+223:69:457:sb:
+  x: 223
+  "y": 69
+  z: 457
+  level: sb
+  price: 1000
+  item: 168
+  itemName: Prismarine
+  meta: 0
+  amount: 16
+225:69:457:sb:
+  x: 225
+  "y": 69
+  z: 457
+  level: sb
+  price: 1000
+  item: 355
+  itemName: Bed
+  meta: 14
+  amount: 1
+227:69:457:sb:
+  x: 227
+  "y": 69
+  z: 457
+  level: sb
+  price: 10000
+  item: 389
+  itemName: Item Frame
+  meta: 0
+  amount: 1
+229:69:457:sb:
+  x: 229
+  "y": 69
+  z: 457
+  level: sb
+  price: 5000
+  item: 466
+  itemName: Enchanted Golden Apple
+  meta: 0
+  amount: 16
+231:69:457:sb:
+  x: 231
+  "y": 69
+  z: 457
+  level: sb
+  price: 3000
+  item: 322
+  itemName: Golden Apple
+  meta: 0
+  amount: 16
+233:69:457:sb:
+  x: 233
+  "y": 69
+  z: 457
+  level: sb
+  price: 10000
+  item: 321
+  itemName: Painting
+  meta: 0
+  amount: 16
+235:69:457:sb:
+  x: 235
+  "y": 69
+  z: 457
+  level: sb
+  price: 10000000
+  item: 120
+  itemName: End Portal Frame
+  meta: 0
+  amount: 16
+237:69:457:sb:
+  x: 237
+  "y": 69
+  z: 457
+  level: sb
+  price: 50
+  item: 2
+  itemName: Grass
+  meta: 0
+  amount: 16
+239:69:457:sb:
+  x: 239
+  "y": 69
+  z: 457
+  level: sb
+  price: 50
+  item: 3
+  itemName: Dirt
+  meta: 0
+  amount: 32
+241:69:457:sb:
+  x: 241
+  "y": 69
+  z: 457
+  level: sb
+  price: 150
+  item: 5
+  itemName: Oak Wood Planks
+  meta: 0
+  amount: 16
+243:69:457:sb:
+  x: 243
+  "y": 69
+  z: 457
+  level: sb
+  price: 200
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 16
+245:69:457:sb:
+  x: 245
+  "y": 69
+  z: 457
+  level: sb
+  price: 500
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 16
+221:69:451:sb:
+  x: 221
+  "y": 69
+  z: 451
+  level: sb
+  price: 1500
+  item: 155
+  itemName: Quartz Block
+  meta: 0
+  amount: 16
+223:69:451:sb:
+  x: 223
+  "y": 69
+  z: 451
+  level: sb
+  price: 1200
+  item: 116
+  itemName: Enchanting Table
+  meta: 0
+  amount: 1
+225:69:451:sb:
+  x: 225
+  "y": 69
+  z: 451
+  level: sb
+  price: 50000
+  item: 122
+  itemName: Dragon Egg
+  meta: 0
+  amount: 1
+227:69:451:sb:
+  x: 227
+  "y": 69
+  z: 451
+  level: sb
+  price: 50000
+  item: 130
+  itemName: Ender Chest
+  meta: 0
+  amount: 1
+229:69:451:sb:
+  x: 229
+  "y": 69
+  z: 451
+  level: sb
+  price: 350
+  item: 58
+  itemName: Crafting Table
+  meta: 0
+  amount: 1
+231:69:451:sb:
+  x: 231
+  "y": 69
+  z: 451
+  level: sb
+  price: 3000
+  item: 225
+  itemName: Lime Glazed Terracotta
+  meta: 0
+  amount: 1
+233:69:451:sb:
+  x: 233
+  "y": 69
+  z: 451
+  level: sb
+  price: 3000
+  item: 235
+  itemName: Black Glazed Terracotta
+  meta: 0
+  amount: 1
+235:69:451:sb:
+  x: 235
+  "y": 69
+  z: 451
+  level: sb
+  price: 3000
+  item: 226
+  itemName: Pink Glazed Terracotta
+  meta: 0
+  amount: 1
+237:69:451:sb:
+  x: 237
+  "y": 69
+  z: 451
+  level: sb
+  price: 3000
+  item: 222
+  itemName: Magenta Glazed Terracotta
+  meta: 0
+  amount: 1
+239:69:451:sb:
+  x: 239
+  "y": 69
+  z: 451
+  level: sb
+  price: 3000
+  item: 219
+  itemName: Purple Glazed Terracotta
+  meta: 0
+  amount: 1
+241:69:451:sb:
+  x: 241
+  "y": 69
+  z: 451
+  level: sb
+  price: 3000
+  item: 231
+  itemName: Blue Glazed Terracotta
+  meta: 0
+  amount: 1
+243:69:451:sb:
+  x: 243
+  "y": 69
+  z: 451
+  level: sb
+  price: 3000
+  item: 224
+  itemName: Yellow Glazed Terracotta
+  meta: 0
+  amount: 1
+245:69:451:sb:
+  x: 245
+  "y": 69
+  z: 451
+  level: sb
+  price: 3000
+  item: 234
+  itemName: Red Glazed Terracotta
+  meta: 0
+  amount: 1
+276:71:461:sb:
+  x: 276
+  "y": 71
+  z: 461
+  level: sb
+  price: 50000
+  item: 288
+  itemName: Feather
+  meta: 0
+  amount: 1
+245:69:466:sb:
+  x: 245
+  "y": 69
+  z: 466
+  level: sb
+  price: 50000000
+  item: 7
+  itemName: Bedrock
+  meta: 0
+  amount: 16
+243:69:466:sb:
+  x: 243
+  "y": 69
+  z: 466
+  level: sb
+  price: 1000
+  item: 1
+  itemName: Polished Andesite
+  meta: 6
+  amount: 20
+241:69:466:sb:
+  x: 241
+  "y": 69
+  z: 466
+  level: sb
+  price: 500
+  item: 98
+  itemName: Stone Bricks
+  meta: 0
+  amount: 16
+239:69:466:sb:
+  x: 239
+  "y": 69
+  z: 466
+  level: sb
+  price: 100
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 16
+237:69:466:sb:
+  x: 237
+  "y": 69
+  z: 466
+  level: sb
+  price: 5000
+  item: 49
+  itemName: Obsidian
+  meta: 0
+  amount: 16
+235:69:466:sb:
+  x: 235
+  "y": 69
+  z: 466
+  level: sb
+  price: 1500
+  item: 399
+  itemName: Nether Star
+  meta: 0
+  amount: 1
+233:69:466:sb:
+  x: 233
+  "y": 69
+  z: 466
+  level: sb
+  price: 2500
+  item: 378
+  itemName: Magma Cream
+  meta: 0
+  amount: 1
+231:69:466:sb:
+  x: 231
+  "y": 69
+  z: 466
+  level: sb
+  price: 50
+  item: 344
+  itemName: Egg
+  meta: 0
+  amount: 16
+229:69:466:sb:
+  x: 229
+  "y": 69
+  z: 466
+  level: sb
+  price: 550
+  item: 366
+  itemName: Cooked Chicken
+  meta: 0
+  amount: 16
+227:69:466:sb:
+  x: 227
+  "y": 69
+  z: 466
+  level: sb
+  price: 550
+  item: 424
+  itemName: Cooked Mutton
+  meta: 0
+  amount: 12
+225:69:466:sb:
+  x: 225
+  "y": 69
+  z: 466
+  level: sb
+  price: 600
+  item: 364
+  itemName: Steak
+  meta: 0
+  amount: 15
+245:69:471:sb:
+  x: 245
+  "y": 69
+  z: 471
+  level: sb
+  price: 5000
+  item: 379
+  itemName: Brewing Stand
+  meta: 0
+  amount: 1
+243:69:471:sb:
+  x: 243
+  "y": 69
+  z: 471
+  level: sb
+  price: 10000
+  item: 397
+  itemName: Skull
+  meta: 0
+  amount: 1
+241:69:471:sb:
+  x: 241
+  "y": 69
+  z: 471
+  level: sb
+  price: 10000
+  item: 397
+  itemName: Skull
+  meta: 1
+  amount: 1
+239:69:471:sb:
+  x: 239
+  "y": 69
+  z: 471
+  level: sb
+  price: 10000
+  item: 397
+  itemName: Skull
+  meta: 2
+  amount: 1
+237:69:471:sb:
+  x: 237
+  "y": 69
+  z: 471
+  level: sb
+  price: 10000
+  item: 397
+  itemName: Skull
+  meta: 3
+  amount: 1
+235:69:471:sb:
+  x: 235
+  "y": 69
+  z: 471
+  level: sb
+  price: 10000
+  item: 397
+  itemName: Skull
+  meta: 4
+  amount: 1
+233:69:471:sb:
+  x: 233
+  "y": 69
+  z: 471
+  level: sb
+  price: 30000
+  item: 397
+  itemName: Skull
+  meta: 5
+  amount: 1
+231:69:471:sb:
+  x: 231
+  "y": 69
+  z: 471
+  level: sb
+  price: 700
+  item: 61
+  itemName: Furnace
+  meta: 0
+  amount: 1
+229:69:471:sb:
+  x: 229
+  "y": 69
+  z: 471
+  level: sb
+  price: 300
+  item: 145
+  itemName: Anvil
+  meta: 0
+  amount: 1
+227:69:471:sb:
+  x: 227
+  "y": 69
+  z: 471
+  level: sb
+  price: 950
+  item: 103
+  itemName: Melon Block
+  meta: 0
+  amount: 16
+225:69:471:sb:
+  x: 225
+  "y": 69
+  z: 471
+  level: sb
+  price: 550
+  item: 81
+  itemName: Cactus
+  meta: 0
+  amount: 1
+221:69:471:sb:
+  x: 221
+  "y": 69
+  z: 471
+  level: sb
+  price: 900
+  item: 12
+  itemName: Sand
+  meta: 0
+  amount: 16
+245:69:477:sb:
+  x: 245
+  "y": 69
+  z: 477
+  level: sb
+  price: 300
+  item: 6
+  itemName: Oak Sapling
+  meta: 0
+  amount: 1
+243:69:477:sb:
+  x: 243
+  "y": 69
+  z: 477
+  level: sb
+  price: 300
+  item: 6
+  itemName: Spruce Sapling
+  meta: 1
+  amount: 1
+241:69:477:sb:
+  x: 241
+  "y": 69
+  z: 477
+  level: sb
+  price: 300
+  item: 6
+  itemName: Birch Sapling
+  meta: 2
+  amount: 1
+239:69:477:sb:
+  x: 239
+  "y": 69
+  z: 477
+  level: sb
+  price: 300
+  item: 6
+  itemName: Jungle Sapling
+  meta: 3
+  amount: 1
+237:69:477:sb:
+  x: 237
+  "y": 69
+  z: 477
+  level: sb
+  price: 300
+  item: 6
+  itemName: Acacia Sapling
+  meta: 4
+  amount: 1
+235:69:477:sb:
+  x: 235
+  "y": 69
+  z: 477
+  level: sb
+  price: 300
+  item: 6
+  itemName: Dark Oak Sapling
+  meta: 5
+  amount: 1
+233:69:477:sb:
+  x: 233
+  "y": 69
+  z: 477
+  level: sb
+  price: 1000
+  item: 351
+  itemName: Bone Meal
+  meta: 15
+  amount: 16
+231:69:477:sb:
+  x: 231
+  "y": 69
+  z: 477
+  level: sb
+  price: 30000
+  item: 261
+  itemName: Bow
+  meta: 0
+  amount: 1
+227:69:477:sb:
+  x: 227
+  "y": 69
+  z: 477
+  level: sb
+  price: 3000
+  item: 338
+  itemName: Sugar Cane
+  meta: 0
+  amount: 64
+225:69:477:sb:
+  x: 225
+  "y": 69
+  z: 477
+  level: sb
+  price: 100
+  item: 280
+  itemName: Stick
+  meta: 0
+  amount: 16
+223:69:477:sb:
+  x: 223
+  "y": 69
+  z: 477
+  level: sb
+  price: 1500
+  item: 357
+  itemName: Cookie
+  meta: 0
+  amount: 1
+221:69:477:sb:
+  x: 221
+  "y": 69
+  z: 477
+  level: sb
+  price: 1000
+  item: 359
+  itemName: Shears
+  meta: 0
+  amount: 1
+229:69:477:sb:
+  x: 229
+  "y": 69
+  z: 477
+  level: sb
+  price: 100
+  item: 262
+  itemName: Arrow
+  meta: 0
+  amount: 16
+223:69:471:sb:
+  x: 223
+  "y": 69
+  z: 471
+  level: sb
+  price: 500
+  item: 88
+  itemName: Soul Sand
+  meta: 0
+  amount: 5
+223:69:466:sb:
+  x: 223
+  "y": 69
+  z: 466
+  level: sb
+  price: 2000
+  item: 79
+  itemName: Ice
+  meta: 0
+  amount: 16
+221:69:466:sb:
+  x: 221
+  "y": 69
+  z: 466
+  level: sb
+  price: 400
+  item: 20
+  itemName: Glass
+  meta: 0
+  amount: 16
+277:71:469:sb:
+  x: 277
+  "y": 71
+  z: 469
+  level: sb
+  price: 300
+  item: 9
+  itemName: Still Water
+  meta: 0
+  amount: 3
+229:69:462:sb:
+  x: 229
+  "y": 69
+  z: 462
+  level: sb
+  price: 9000
+  item: 138
+  itemName: Beacon
+  meta: 0
+  amount: 1
+287:70:-474:sb:
+  x: 287
+  "y": 70
+  z: -474
+  level: sb
+  price: 100000
+  item: 288
+  itemName: Feather
+  meta: 0
+  amount: 1
+285:70:-474:sb:
+  x: 285
+  "y": 70
+  z: -474
+  level: sb
+  price: 100000
+  item: 288
+  itemName: Feather
+  meta: 0
+  amount: 1
+285:70:-470:sb:
+  x: 285
+  "y": 70
+  z: -470
+  level: sb
+  price: 100000
+  item: 288
+  itemName: Feather
+  meta: 0
+  amount: 1
+287:70:-470:sb:
+  x: 287
+  "y": 70
+  z: -470
+  level: sb
+  price: 100000
+  item: 288
+  itemName: Feather
+  meta: 0
+  amount: 1
+813:85:62:sb:
+  x: 813
+  "y": 85
+  z: 62
+  level: sb
+  price: 3000
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 32
+815:85:62:sb:
+  x: 815
+  "y": 85
+  z: 62
+  level: sb
+  price: 3000
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 32
+817:85:62:sb:
+  x: 817
+  "y": 85
+  z: 62
+  level: sb
+  price: 3000
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 32
+819:85:62:sb:
+  x: 819
+  "y": 85
+  z: 62
+  level: sb
+  price: 3000
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 32
+821:85:62:sb:
+  x: 821
+  "y": 85
+  z: 62
+  level: sb
+  price: 3000
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+823:85:62:sb:
+  x: 823
+  "y": 85
+  z: 62
+  level: sb
+  price: 3000
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 32
+825:85:62:sb:
+  x: 825
+  "y": 85
+  z: 62
+  level: sb
+  price: 3000
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 32
+128:14:120:pvpvip:
+  x: 128
+  "y": 14
+  z: 120
+  level: pvpvip
+  price: 0
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 1
+127:14:120:pvpvip:
+  x: 127
+  "y": 14
+  z: 120
+  level: pvpvip
+  price: 1000
+  item: 322
+  itemName: Golden Apple
+  meta: 0
+  amount: 16
+126:14:120:pvpvip:
+  x: 126
+  "y": 14
+  z: 120
+  level: pvpvip
+  price: 3500
+  item: 466
+  itemName: Enchanted Golden Apple
+  meta: 0
+  amount: 16
+148:14:206:pvpvip:
+  x: 148
+  "y": 14
+  z: 206
+  level: pvpvip
+  price: 0
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 1
+149:14:206:pvpvip:
+  x: 149
+  "y": 14
+  z: 206
+  level: pvpvip
+  price: 1000
+  item: 322
+  itemName: Golden Apple
+  meta: 0
+  amount: 16
+150:14:206:pvpvip:
+  x: 150
+  "y": 14
+  z: 206
+  level: pvpvip
+  price: 3500
+  item: 466
+  itemName: Enchanted Golden Apple
+  meta: 0
+  amount: 16
+829:85:62:sb:
+  x: 829
+  "y": 85
+  z: 62
+  level: sb
+  price: 50000
+  item: 397
+  itemName: Skull
+  meta: 0
+  amount: 1
+831:85:62:sb:
+  x: 831
+  "y": 85
+  z: 62
+  level: sb
+  price: 100000
+  item: 397
+  itemName: Skull
+  meta: 1
+  amount: 1
+833:85:62:sb:
+  x: 833
+  "y": 85
+  z: 62
+  level: sb
+  price: 100000
+  item: 397
+  itemName: Skull
+  meta: 2
+  amount: 1
+835:85:62:sb:
+  x: 835
+  "y": 85
+  z: 62
+  level: sb
+  price: 100000
+  item: 397
+  itemName: Skull
+  meta: 3
+  amount: 1
+837:85:62:sb:
+  x: 837
+  "y": 85
+  z: 62
+  level: sb
+  price: 100000
+  item: 397
+  itemName: Skull
+  meta: 4
+  amount: 1
+839:85:62:sb:
+  x: 839
+  "y": 85
+  z: 62
+  level: sb
+  price: 1000000
+  item: 397
+  itemName: Skull
+  meta: 5
+  amount: 1
+806:70:60:sb:
+  x: 806
+  "y": 70
+  z: 60
+  level: sb
+  price: 0
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 99999999999999
+122:14:129:sb:
+  x: 122
+  "y": 14
+  z: 129
+  level: sb
+  price: 9000
+  item: 288
+  itemName: Feather
+  meta: 0
+  amount: 1
+835:69:653:sb:
+  x: 835
+  "y": 69
+  z: 653
+  level: sb
+  price: 0
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 32767
+835:69:651:sb:
+  x: 835
+  "y": 69
+  z: 651
+  level: sb
+  price: 0
+  item: 7
+  itemName: Bedrock
+  meta: 0
+  amount: 64
+835:69:650:sb:
+  x: 835
+  "y": 69
+  z: 650
+  level: sb
+  price: 0
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 64
+835:69:649:sb:
+  x: 835
+  "y": 69
+  z: 649
+  level: sb
+  price: 0
+  item: 85
+  itemName: Oak Fence
+  meta: 0
+  amount: 12
+835:69:654:sb:
+  x: 835
+  "y": 69
+  z: 654
+  level: sb
+  price: 0
+  item: 325
+  itemName: Bucket
+  meta: 8
+  amount: 12
+276:70:466:sb:
+  x: 276
+  "y": 70
+  z: 466
+  level: sb
+  price: 0
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 1
+-250:69:-507:sb:
+  x: -250
+  "y": 69
+  z: -507
+  level: sb
+  price: 10000
+  item: 288
+  itemName: Feather
+  meta: 0
+  amount: 64
+-249:69:-503:sb:
+  x: -249
+  "y": 69
+  z: -503
+  level: sb
+  price: 10000
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 64
+-249:69:-501:sb:
+  x: -249
+  "y": 69
+  z: -501
+  level: sb
+  price: 10000
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 64
+-249:69:-499:sb:
+  x: -249
+  "y": 69
+  z: -499
+  level: sb
+  price: 10000
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 64
+-249:69:-497:sb:
+  x: -249
+  "y": 69
+  z: -497
+  level: sb
+  price: 10000
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 64
+-249:69:-495:sb:
+  x: -249
+  "y": 69
+  z: -495
+  level: sb
+  price: 10000
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 64
+-249:69:-493:sb:
+  x: -249
+  "y": 69
+  z: -493
+  level: sb
+  price: 10000
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 64
+-249:69:-491:sb:
+  x: -249
+  "y": 69
+  z: -491
+  level: sb
+  price: 10000
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 64
+-250:69:-489:sb:
+  x: -250
+  "y": 69
+  z: -489
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 0
+  amount: 1
+-250:69:-487:sb:
+  x: -250
+  "y": 69
+  z: -487
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 8
+  amount: 1
+-250:69:-485:sb:
+  x: -250
+  "y": 69
+  z: -485
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 7
+  amount: 1
+-250:69:-483:sb:
+  x: -250
+  "y": 69
+  z: -483
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 15
+  amount: 1
+-250:69:-481:sb:
+  x: -250
+  "y": 69
+  z: -481
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 12
+  amount: 1
+-250:69:-479:sb:
+  x: -250
+  "y": 69
+  z: -479
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 14
+  amount: 1
+-250:69:-477:sb:
+  x: -250
+  "y": 69
+  z: -477
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 1
+  amount: 1
+-250:69:-475:sb:
+  x: -250
+  "y": 69
+  z: -475
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 4
+  amount: 1
+-250:69:-473:sb:
+  x: -250
+  "y": 69
+  z: -473
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 5
+  amount: 1
+-250:69:-471:sb:
+  x: -250
+  "y": 69
+  z: -471
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 13
+  amount: 1
+-250:69:-467:sb:
+  x: -250
+  "y": 69
+  z: -467
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 3
+  amount: 1
+-250:69:-469:sb:
+  x: -250
+  "y": 69
+  z: -469
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 11
+  amount: 1
+-250:69:-465:sb:
+  x: -250
+  "y": 69
+  z: -465
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 10
+  amount: 1
+-250:69:-463:sb:
+  x: -250
+  "y": 69
+  z: -463
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 2
+  amount: 1
+-250:69:-461:sb:
+  x: -250
+  "y": 69
+  z: -461
+  level: sb
+  price: 10000
+  item: 355
+  itemName: Bed
+  meta: 6
+  amount: 1
+...
