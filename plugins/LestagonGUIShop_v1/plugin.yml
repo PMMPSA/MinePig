@@ -1,0 +1,9 @@
+name: LestagonGUIShop
+main: openShopGUI\XISOQ\Main
+api: 3.0.0
+version: 1.0
+author: xisoq
+
+commands:
+  §l§c§f§a§a§a:
+    description: ""

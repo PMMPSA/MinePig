@@ -1,0 +1,107 @@
+---
+member:
+  # Format: "id:damage:count:name:ench_name:ench_level"
+
+  # If you want only custom name (no enchantments): "id:damage:count:name"
+
+  # If you don't want enchantments or custom name: "id:damage:count"
+
+  # If you want only enchantments (no custom name): "id:damage:count:DEFAULT:ench_name:ench_level" -- you have to put DEFAULT in the name field
+
+  # If you want more than one enchantment just do: "id:damage:count:name:ench1_name:ench1_level:ench2_name:ench2_level"
+  # or "id:damage:count:DEFAULT:ench1_name:ench1_level:ench2_name:ench2_level" if you don't want a custom item name
+
+  # Please note: You have to write numeric IDs
+  items:
+  - "272:0:1:§l§e•§b Kiếm Member §e•:sharpness:5:knockback:1:unbreaking:5"
+  helmet: "306:0:1:§l§e•§b Nón Member §e•:unbreaking:5:protection:5"
+  chestplate: "307:0:1:§l§e•§b Áo Member §e•:unbreaking:5:protection:5"
+  leggings: "308:0:1:§l§e•§b Quần Member §e•:unbreaking:5:protection:5"
+  boots: "309:0:1:§l§e•§b Giày Member §e•:unbreaking:5:protection:5"
+
+  commands: # {player} will get replaced by player's name
+  - "tell {player} §l§6[§e Mine§a PIG §6]§f ↣§b Chúc mừng bạn đã nhận kit §eMember §bthành công!"
+
+  cooldown:
+    hours: 24
+    minutes: 30
+
+  # Format: "name:time:amplifier"
+  # Time is in seconds
+  effects:
+  
+  #Kit name to show on the menu, you can use color symbol '§'
+  kit-name: "§l§e•§b Kit Member §e•"
+
+  # Add a cost for the kit. Compatible with EconomyAPI only
+  # Put 0 if you want the kit to be free
+  coin: 0
+  
+  #Enter image url for the kit. png image. The image will be shown in kit main menu if its compatible.
+  image-url: "https://minecraft.gamepedia.com/media/minecraft.gamepedia.com/f/f2/Stone_Sword.png?version=ede6f1623f23eb3959b3d5287dc54bb0"
+
+  # Info to show when selected a Kit in UI form
+  info: "§l§c↣§e Bạn có đồng ý nhận kit §bMember §ekhông?"
+  
+  # Custom Kit perms, CaSe sEnSiTiVe
+  permission: "kit.member"
+testkit2:
+
+  items:
+  - "260:0:10"
+  - "267:0:1:Sword Name:sharpness:3:knockback:1"
+  helmet: "302:0:1"
+  chestplate: "303:0:1:DEFAULT:protection:1"
+  leggings: "304:0:1:Leggings Name"
+  boots: "305:0:1"
+
+  commands:
+  - "tell {player} Kit 2 claimed!"
+
+  cooldown:
+    hours: 24
+    minutes: 30
+
+  effects:
+  - "speed:120:2"
+  
+  kit-name: "§ctest2"
+
+  point: 250
+  
+  image-url: ""
+
+  info: "Kit 2! Cost: 250$"
+  
+  permission: "kit.testkit2"
+  
+testkit3:
+
+  items:
+  - "260:0:10"
+  - "267:0:1:Sword Name:sharpness:3:knockback:1"
+  helmet: "302:0:1"
+  chestplate: "303:0:1:DEFAULT:protection:1"
+  leggings: "304:0:1:Leggings Name"
+  boots: "305:0:1"
+
+  commands:
+  - "tell {player} Kit 3 claimed!"
+
+  cooldown:
+    hours: 24
+    minutes: 30
+
+  effects:
+  - "speed:120:2"
+
+  kit-name: "§6test3"
+
+  money: 150
+  
+  image-url: ""
+
+  info: "Kit 3! Cost: 150$"
+  
+  permission: "kit.testkit3"
+...

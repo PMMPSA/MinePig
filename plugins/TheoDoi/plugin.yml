@@ -1,0 +1,14 @@
+name: TheoDoi
+main: cmdsnooper\CmdSnooper
+version: 1.0.0
+api: 3.0.0
+author: PIG
+description: Theo Dõi
+
+commands:
+  theodoi:
+    description: Theo Dõi Member
+permissions:
+   theodoi.command:
+    default: op
+ 

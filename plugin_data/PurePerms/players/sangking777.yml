@@ -1,0 +1,12 @@
+---
+userName: Sangking777
+group: Admin
+permissions:
+- tp
+- pocketmine.command.teleport
+- pocketmine.command.tp
+- nick.command
+worlds: []
+time: -1
+expTime: -1
+...

@@ -1,0 +1,1080 @@
+---
+
+crates-version: 1
+
+crates:
+
+  gun:
+    drops:
+      - name: "§l§e•§a Súng §cMP40 §e•"
+        id: 419
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon gun mp40"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aSúng §cMP40"
+      - name: "§l§e•§a Ammo §cx64 §e•"
+        id: 385
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon ammo 64"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aAmmo §cx64"
+      - name: "§l§e•§a Ammo §cx128 §e•"
+        id: 385
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon ammo 128"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aAmmo §cx128"
+      - name: "§l§e•§a Ammo §cx16 §e•"
+        id: 385
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon ammo 16"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aAmmo §cx16"
+      - name: "§l§e•§a Ammo §cx32 §e•"
+        id: 385
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon ammo 32"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aAmmo §cx32"
+      - name: "§l§e•§a Ammo §cx8 §e•"
+        id: 385
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon ammo 8"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aAmmo §cx8"
+      - name: "§l§e•§a Súng §cMG42 §e•"
+        id: 419
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon gun mg42"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aSúng §cMG42"
+      - name: "§l§e•§a Súng §cThompson §e•"
+        id: 419
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon gun thompson"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aSúng §cThompson"
+      - name: "§l§e•§a Súng §cM1911 §e•"
+        id: 419
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon gun m1911"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aSúng §cM1911"
+      - name: "§l§e•§a Súng §cMiniGun §e•"
+        id: 419
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon gun minigun"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aSúng §cMiniGun"
+      - name: "§l§e•§a Súng §cPanzerFaust §e•"
+        id: 419
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon gun panzerfaust"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aSúng §cPanzerFaust"
+      - name: "§l§e•§a Ammo §cx256 §e•"
+        id: 385
+        meta: 50
+        amount: 1
+        commands:
+          - "weapon ammo 256"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\ %PLAYER%\  §6 Đã Mở Rương §aSúng §6Và Nhận Được §aAmmo §cx256"
+    block: "173:0"
+    broadcast:
+      enable: true
+      command: "say §l§6[§e Mine§a PIG §6]§f ↣§a Người chơi§e \"%PLAYER%\" §aĐã mở rương súng tại §c/warp crates"
+  block:
+    drops:
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+    block: "41:0"
+    broadcast:
+      enable: true
+      command: "say §l§6[§e Mine§a PIG §6]§f ↣§a Người chơi§e \"%PLAYER%\" §aĐã mở rương súng tại §c/warp crates"
+  weapon:
+    drops:
+      - name: "§c§lKiếm §6Rồng §5Thần§r"
+        id: 276
+        meta: 0
+        amount: 1
+        enchantments:
+          sharpness:
+            level: 10
+          unbreaking:
+            level: 10
+          mending:
+            level: 7
+          fire_aspect:
+            level: 7
+          poison:
+            level: 3
+        lore: "§l§e-=§c☯§e=- §6Poison §d(§eLV3§d)§6: Làm Cho Kẻ Địch Dính Độc Khi Bị Bạn Tấn Công\n§d§oĐộ Bền:§e ■■■■■□□□□□\n§d§oĐộ Sắc:§a ■■■■■□□□□□\n§6§oCó Khả Năng Hồi Phục Lại Nhiều Độ Bền Nhờ Exp Của Quái §8(Nội Tại Phụ)\n§6§oGây Cháy Đối Phương §8(Nội Tại Phụ)§r"
+        commands:
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §c§lKiếm §6Rồng §5Thần§r."
+      - name: "§c§lÁo §6Rồng §5Thần§r"
+        id: 311
+        meta: 0
+        amount: 1
+        enchantments:
+          protection:
+            level: 10
+          unbreaking:
+            level: 10
+          thorns:
+            level: 8
+          obsidianshield:
+            level: 2
+        lore: "§l§e-=§c☯§e=- §6ObsidianShield§d(§eLV 2§d)§6: Khi Mặc Áo Này Vào Sẽ Có Hiệu Ứng Chống Lửa\n§d§oĐộ Bền:§e ■■■■■□□□□□\n§d§oSức Bảo Vệ:§a ■■■■■□□□□□\n§6§oCó Khả Năng Gây Nhiều Sát Thương Cho Người Đánh Bạn§8(Nội Tại Phụ)"
+        commands:
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §c§lÁo §6Rồng §5Thần§r."
+      - name: "§c§lGiày §6Rồng §5Thần§r"
+        id: 313
+        meta: 0
+        amount: 1
+        enchantments:
+          protection:
+            level: 10
+          unbreaking:
+            level: 8
+          feather_falling:
+            level: 6
+          jetpack:
+            level: 1
+        lore: "§l§e-=§c☯§e=- §6Jetpack §d(§eLV 2§d)§6: Cho Bạn Khả Năng Bay (Ngồi để bật/tắt)\n§d§oĐộ Bền:§e ■■■■□□□□□□\n§d§oSức Bảo Vệ:§a ■■■■■□□□□□\n§6§oCó Khả Năng Giảm Nhiều Sát Thương Khi Rơi §8(Nội Tại Phụ)"
+        commands:
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §c§lGiày §6Rồng §5Thần§r."
+      - name: "§c§lQuần §6Rồng §5Thần§r"
+        id: 312
+        meta: 0
+        amount: 1
+        enchantments:
+          protection:
+            level: 10
+          unbreaking:
+            level: 10
+          autorepair:
+            level: 1
+        lore: "§l§e-=§c☯§e=- §6Autorepair §d(§eLV 1§d)§6: Tự Hồi Phục Độ Bền\n§d§oĐộ Bền:§e ■■■■■□□□□□\n§d§oSức Bảo Vệ: §a■■■■■□□□□□\n§c§oKhông Có Nội Tại Phụ"
+        commands:
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §c§lQuần §6Rồng §5Thần§r."
+      - name: "§c§lMũ §6Rồng §5Thần§r"
+        id: 310
+        meta: 0
+        amount: 1
+        enchantments:
+          protection:
+            level: 10
+          unbreaking:
+            level: 10
+          meditation:
+            level: 1
+        lore: "§l§e-=§c☯§e=- §6Meditation §d(§eLV 1§d)§6: Hồi Máu Và Độ Đói Khi Đứng Yên Trong 20 Giây\n§d§oĐộ Bền:§e ■■■■■□□□□□\n§d§oSức Bảo Vệ:§a ■■■■■□□□□□\n§c§oKhông Có Nội Tại Phụ"
+        commands:
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §c§lMũ §eLong §aThần§r."
+      - name: "§c§lCúp §6Rồng §5Thần§r"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 10
+          unbreaking:
+            level: 10
+          autorepair:
+            level: 1
+          driller:
+            level: 1
+        lore: "§l§e-=§c☯§e=- §6Driller §d(§eLV 1§d)§6: Khi Đào Block Sẽ Tạo 1 Ô 3x3\n§l§e-=§c☯§e=- §6AutoRepair §d(§eLV 1§d)§6: Tự Hồi Phục Độ Bền\n§d§oĐộ Bền: §e■■■■■□□□□□\n§d§oTốc Độ Đào:§a ■■■■■□□□□□\n§c§oKhông Có Nội Tại Phụ"
+        commands:
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §c§lCúp §6Rồng §5Thần§r."
+      - name: "§c§lRìu §6Rồng §5Thần§r"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 10
+          unbreaking:
+            level: 10
+          lumberjack:
+            level: 1
+        lore: "§l§e-=§c☯§e=- §6Lumberjack §d(§eLV 1§d)§6: Khi Chặt Gỗ Sẽ Tự Động Rơi Hết Block Gỗ\n§d§oĐộ Bền:§e ■■■■■□□□□□\n§d§oTốc Độ Đào:§a ■■■■■□□□□□\n§c§oKhông Có Nội Tại Phụ"
+        commands:
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §l§eCúp §4Hổ Thần."
+      - name: "§c§lXẻng §6Rồng §5Thần"
+        id: 278
+        meta: 0
+        amount: 1
+        enchantments:
+          efficiency:
+            level: 10
+          unbreaking:
+            level: 10
+        lore: "§l§e-=§c☯§e=- §dChưa Có Nội Tại\n§d§oĐộ Bền:§e ■■■■■□□□□□\n§d§oTốc Độ Đào:§a ■■■■■□□□□□\n§c§oKhông Có Nội Tại Phụ"
+        commands:
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §c§lXẻng §6Rồng §5Thần."
+      - name: "§c§lMảnh §eHổ §aCung §6(Cấp 6)§r"
+        id: 261
+        meta: 0
+        amount: 1
+        enchantments:
+          power:
+            level: 9
+          unbreaking:
+            level: 10
+          mending:
+            level: 7
+          flame:
+            level: 8
+          punch:
+            level: 8
+          paralyze:
+            level: 2
+          headhunter:
+            level: 1
+        lore: "§l§e-=§c☯§e=- §6Paralyze §d(§eLV 2§d)§6: Cung Cấp Sự Chậm Chạp, Mù ​​Quáng Và Buồn Nôn Cho Kẻ Thù\n§l§e-=§c☯§e=- §6Headhunter §d(§eLV 1§d)§6: Tăng Nhiều Sát Thương Khi Bắn Trúng Đầu\n§d§oĐộ Bền:§e ■■■■■□□□□□\n§d§oSát Thương:§a ■■■■■□□□□□\n§6§oCó Khả Năng Hồi Phục Lại Nhiều Độ Bền Nhờ Exp Của Quái §8(Nội Tại Phụ)\n§6§oGây Cháy Và Làm Bật Lùi Đối Phương Ở Cự Ly Khá Xa §8(Nội Tại Phụ)§r"
+        commands:
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon§6Và Nhận Được §c§lMảnh §eHổ §aCung §6(Cấp 5)§r."
+      - id: 264
+        meta: 0
+        amount: 16
+      - id: 388
+        meta: 0
+        amount: 16
+        drops:
+      - name: "§l§e•§a Giày Bay §e•"
+        id: 301
+        meta: 0
+        amount: 1
+        enchantments:
+          unbreaking:
+            level: 1
+          jetpack:
+            level: 1
+        lore: "§l§c⚫§a Hướng Dẫn:§e Mang Giày Vào Và Ngồi Xuống Để Bay!\n§l§c⚫§a Độ Bền:§e ✰§f ✰ ✰ ✰ ✰\n§l§c⚫§a Jetpack:§e ✰ §f✰ ✰ ✰ ✰\n§l§c⚫§a Độ Hiếm:§e ✰ §f✰ ✰ ✰ ✰"
+        commands:
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §c§l§aGiày Bay§r."
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 80
+        meta: 0
+        amount: 64
+      - id: 366
+        meta: 0
+        amount: 26
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 2
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 17
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 260
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - id: 3
+        meta: 0
+        amount: 64
+      - name: "§l§eKey §4Weapon"
+        id: 2
+        meta: 50
+        amount: 1
+        commands:
+          - "key Weapon \"%PLAYER%\" 1"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §l§eKey §4Weapon."
+      - id: 322
+        meta: 0
+        amount: 16
+      - name: "§l§6160,000$"
+        id: 339
+        meta: 50
+        amount: 1
+        commands:
+          - "givemoney \"%PLAYER%\" 160000"
+          - "say §l§6[§e Mine§a PIG §6] §6↣ §b\"%PLAYER%\" §6 Đã Mở Rương §4Weapon §6Và Nhận Được §a$160,000."
+    block: "57:0"
+    broadcast:
+      enable: true
+      command: "say §l§6[§e Mine§a PIG §6]§f ↣§a Người chơi§e \"%PLAYER%\" §aĐã mở rương súng tại §c/warp crates"
+
+...

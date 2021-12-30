@@ -1,0 +1,13 @@
+collectLogs1:
+  title: "§l§e•§a Tiều phu §e•"
+  desc: "§l§c↣ §eChặt 64 Khối Gỗ Xoài\n§l§c↣§e Phần thưởng§f:§b 1000Xu"
+  item: "17:0:64"
+  cmd:
+    - givemoney "{player}" 1000
+
+diamond:
+  title: "§l§e•§a Thợ Mỏ §e•"
+  desc: "§l§c↣§e Đào 64 Khối Kim Cương\n§l§c↣§e Phần thưởng§f: §b5000Xu"
+  item: "57:0:64"
+  cmd:
+    - givemoney "{player}" 5000

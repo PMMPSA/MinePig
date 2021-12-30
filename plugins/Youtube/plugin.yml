@@ -1,0 +1,9 @@
+name: Youtube
+version: 1.0.1
+main: YT\Main
+api: [3.0.0, 4.0.0]
+author: PIG
+
+commands:
+  youtube:
+    description: "Hướng Dẫn Lấy Lấy Danh Hiệu Youtuber"

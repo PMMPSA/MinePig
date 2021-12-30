@@ -1,0 +1,16 @@
+---
+protect: lock
+pvp: false
+banitem:
+  325: Bucket
+  137: Command Block
+  384: Bottle o' Enchanting
+  321: Painting
+  383: Spawn Egg
+  746: Netherite Axe
+  279: Diamond Axe
+  286: Gold Axe
+  258: Iron Axe
+  275: Stone Axe
+  271: Wooden Axe
+...

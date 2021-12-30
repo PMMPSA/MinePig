@@ -1,0 +1,7 @@
+name: Bank
+version: 0.43
+api: 3.0.0
+main: Bank\Main
+commands:
+  nganhang:
+    description: "Ngân hàng"

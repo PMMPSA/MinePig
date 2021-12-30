@@ -1,0 +1,11 @@
+name: MuaCoinUIVH
+author: NamVN
+main: NamVN\Main
+version: 1.0
+api: 3.0.0
+
+commands:
+ buycoin:
+  description: "Buy Coin"
+#Vui lòng không chỉnh tên Author
+#Bạn chỉ có thể edit Format chữ, số tiền mua point

@@ -1,0 +1,10 @@
+name: KhoGo
+api: 3.0.0
+version: 4.2.5
+load: STARTUP
+author: PIG
+main: Kho\Main
+
+commands:
+ khogo:
+  description: "Kho Gỗ"

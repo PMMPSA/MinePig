@@ -1,0 +1,58 @@
+# MADE BY:
+#  __    __                                          __        __  __  __                     
+# /  |  /  |                                        /  |      /  |/  |/  |                    
+# $$ |  $$ |  ______   _______    ______    ______  $$ |____  $$/ $$ |$$/   _______  __    __ 
+# $$  \/$$/  /      \ /       \  /      \  /      \ $$      \ /  |$$ |/  | /       |/  |  /  |
+#  $$  $$<  /$$$$$$  |$$$$$$$  |/$$$$$$  |/$$$$$$  |$$$$$$$  |$$ |$$ |$$ |/$$$$$$$/ $$ |  $$ |
+#   $$$$  \ $$    $$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |$$ |$$ |$$ |      $$ |  $$ |
+#  $$ /$$  |$$$$$$$$/ $$ |  $$ |$$ \__$$ |$$ |__$$ |$$ |  $$ |$$ |$$ |$$ |$$ \_____ $$ \__$$ |
+# $$ |  $$ |$$       |$$ |  $$ |$$    $$/ $$    $$/ $$ |  $$ |$$ |$$ |$$ |$$       |$$    $$ |
+# $$/   $$/  $$$$$$$/ $$/   $$/  $$$$$$/  $$$$$$$/  $$/   $$/ $$/ $$/ $$/  $$$$$$$/  $$$$$$$ |
+#                                         $$ |                                      /  \__$$ |
+#                                         $$ |                                      $$    $$/ 
+#                                         $$/                                        $$$$$$/
+VERSION: "1.1.4" # Internal use only
+
+
+# This is where you can put the list of worlds that you'd like to white/blacklist from using OreGen
+# Leave this blank if you want OreGen to function on all worlds
+World-List:
+  - "Lobby"
+  - "Spawn"
+
+# Choose the mode for the world list, options are "Blacklist" & "Whitelist"
+List-Mode: "Blacklist"
+
+# This is where you set the probability (out of 100) that the player will get the default cobblestone
+# The cobble probability and the selected ores must have a sum equal to 100 for the plugin to function
+Cobble-Probability: 45
+
+# Here you control which blocks you want players to have a chance of getting
+# Set any of them to false to disable their chance of being an outcome
+Coal:
+  Enabled: true
+  Probability: 18
+
+Iron:
+  Enabled: true
+  Probability: 10
+
+Gold:
+  Enabled: true
+  Probability: 8
+
+Lapis:
+  Enabled: true
+  Probability: 7
+
+Redstone:
+  Enabled: true
+  Probability: 5
+
+Emerald:
+  Enabled: true
+  Probability: 4
+
+Diamond:
+  Enabled: true
+  Probability: 3

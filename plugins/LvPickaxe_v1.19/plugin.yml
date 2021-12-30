@@ -1,0 +1,8 @@
+name: LvPickaxe
+version: 1.19
+api: 3.0.0
+author: PhuongAZ, K27
+main: LvPickaxe\Loader
+commands:
+ pickaxe:
+    description: "LvPickaxe Commands"

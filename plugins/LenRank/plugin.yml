@@ -1,0 +1,9 @@
+name: LenRank
+main: PIG\Main
+version: 1.0.0
+api: 3.0.0
+author: Nguyễn Công Danh (NCD)
+
+commands:
+  rank:
+    description: Hệ Thống Rank

@@ -1,0 +1,7 @@
+name: Lixi
+version: 2.6.3
+api: 3.0.0
+main: Lixi\Main
+commands:
+ lixi:
+   description: "Tặng Point Cho Toàn Players"

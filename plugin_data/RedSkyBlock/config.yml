@@ -1,0 +1,26 @@
+---
+SkyBlockWorld: sb
+Interval: 300
+CobbleGen: true
+MagicCobbleGen Ores:
+- 4
+- 4
+- 21
+Starting Items:
+- 9, 0, 2
+- 85, 10, 2
+- 364, 0, 6
+Hunger: true
+Void: true
+PVP: false
+KeepInventory: false
+MemberLimit: 3
+Island Size: 100
+Valuable Blocks:
+  57: 5
+  41: 4
+  42: 3
+  152: 2
+  22: 2
+  173: 1
+...

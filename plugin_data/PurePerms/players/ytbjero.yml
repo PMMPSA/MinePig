@@ -1,0 +1,14 @@
+---
+userName: YTBJero
+group: VIPIV
+permissions:
+- blockpets.command.togglepet
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+- blockpets.command.changepetname.use
+worlds: []
+time: -1
+expTime: -1
+prefix: .
+suffix: .
+...

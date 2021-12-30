@@ -1,0 +1,8 @@
+name: ShopCoinVHPIG
+api: 3.0.0
+main: shopcoin\Main
+version: 1.0.0
+author: PIG
+commands:
+  shopcoin:
+   description: Mở Giao Diện ShopCoin

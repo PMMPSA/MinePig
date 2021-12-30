@@ -1,0 +1,11 @@
+---
+userName: LocDz2k9
+group: Owner
+permissions:
+- bank.command
+- bank.command
+- blockpets.command.togglepet
+worlds: []
+time: -1
+expTime: -1
+...

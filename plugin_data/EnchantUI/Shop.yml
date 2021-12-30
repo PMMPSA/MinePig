@@ -1,0 +1,63 @@
+---
+version: "0.1"
+Button: "§l§e• §a{NAME} §e•"
+slider-title: "\n§l§6• §aChọn Cấp: §e"
+messages:
+  label: "§l§6↣ §e{PRICE} §aXu §f= §e1 Level"
+
+shop:
+- name: Feather Falling
+  enchantment: 2
+  price: 5000
+  max-level: 3
+
+- name: Blast Protection
+  enchantment: 3
+  price: 5000
+  max-level: 3
+
+- name: Thorns
+  enchantment: thorns
+  price: 5000
+  max-level: 3
+
+- name: Respiration
+  enchantment: respiration
+  price: 5000
+  max-level: 3
+
+- name: Depth Strider
+  enchantment: depth_strider
+  price: 5000
+  max-level: 3
+
+- name: Aqua Affinity
+  enchantment: aqua_affinity
+  price: 5000
+  max-level: 3
+
+- name: Efficiency
+  enchantment: 15
+  price: 5000
+  max-level: 15
+
+- name: Silk Touch
+  enchantment: 16
+  price: 5000
+  max-level: 1
+
+- name: Unbreaking
+  enchantment: 17
+  price: 5000
+  max-level: 15
+
+- name: Mending
+  enchantment: mending
+  price: 5000
+  max-level: 15
+
+- name: Lure
+  enchantment: lure
+  price: 5000
+  max-level: 15
+...

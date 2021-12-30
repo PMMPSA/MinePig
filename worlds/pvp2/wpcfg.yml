@@ -1,0 +1,16 @@
+---
+protect: lock
+bancmds:
+  /fly: /fly
+  /sethome: /sethome
+  /home: /home
+  /delhome: /delhome
+  /gmc: /gmc
+  /gms: /gms
+  /gamemode: /gamemode
+  /tpaccept: /tpaccept
+  /tp: /tp
+banitem:
+  325: Bucket
+  383: Spawn Egg
+...

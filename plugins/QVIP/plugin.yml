@@ -1,0 +1,8 @@
+name: QVipUI
+version: 1.0
+main: QVip\Main
+api: [3.2.1]
+author: PIG
+commands:
+  vip:
+    description: "Quyền VIP"

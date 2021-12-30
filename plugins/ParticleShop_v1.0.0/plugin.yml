@@ -1,0 +1,5 @@
+﻿name: ParticleShop
+author: FurryJaki1992
+version: "1.0.0"
+api: 3.0.0
+main: FurryJaki1992\ParticleShop\Main

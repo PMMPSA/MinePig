@@ -1,0 +1,19 @@
+name: Fly
+main: Fly\Main
+api:
+- 3.0.0
+- 3.2.3
+- 3.1.0
+- 3.2.0
+- 4.0.0
+version: 1.0
+author: PIG
+
+commands:
+ fly:
+  description: Bay Trên Cao
+  permission: fly.command
+permissions:
+ fly.command:
+  default: op
+  description: Fly perms

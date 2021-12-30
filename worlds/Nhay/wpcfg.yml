@@ -1,0 +1,20 @@
+---
+bancmds:
+  /fly: /fly
+  /tp: /tp
+  /gmc: /gmc
+  /gamemode: /gamemode
+  /tpa: /tpa
+  /home: /home
+  /sethome: /sethome
+  /delhome: /delhome
+banitem:
+  9: Still Water
+  11: Still Lava
+  325: Bucket
+  261: Bow
+  455: Trident
+  383: Spawn Egg
+pvp: false
+protect: lock
+...

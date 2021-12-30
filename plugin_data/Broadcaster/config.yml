@@ -1,0 +1,75 @@
+---
+# Available tags for broadcast messages, popups and titles:
+# - {MAXPLAYERS}: Show the maximum number of players supported by the server
+# - {TOTALPLAYERS}: Show the number of all online players
+# - {PREFIX}: Show prefix
+# - {SUFFIX}: Show suffix
+# - {TIME}: Show current time
+# Available tags for /sendmessage, /sendpopup and /sendtitle format:
+# - {MESSAGE}: Show message
+# - {MAXPLAYERS}: Show the maximum number of players supported by the server
+# - {TOTALPLAYERS}: Show the number of all online players
+# - {PREFIX}: Show prefix
+# - {PLAYER}: Message receiver
+# - {SENDER}: Show sender name
+# - {SUFFIX}: Show suffix
+# - {TIME}: Show current time
+# Extra tag for titles:
+# - {SUBTITLE}: Add subtitle (the text after this tag will be the content of the subtitle) 
+# Prefix
+prefix: "§l§a[§e Mine §dPIG §a] "
+# Suffix
+suffix: "[A]"
+# Date\Time format (replaced in {TIME}). For format codes read http://php.net/manual/en/datetime.formats.php
+datetime-format: "H:i:s"
+# Message broadcast
+message-broadcast:
+ # Enable message broadcast
+ enabled: true
+ # Broadcast interval (in seconds)
+ time: 60
+ # Command /sendmessage format
+ command-format: "&e[{TIME}] {PREFIX} {SUFFIX} &a{SENDER}&e>&f {MESSAGE}"
+ # Broadcast messages
+ messages:
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Nếu gặp hack, cheat chụp hình hoặc dùng (/tocao) đẻ admin & police xử lí"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a VOTE Để Nhận Những Phần Quà §cHOT!"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§e Dùng Lệnh /chuyensinh để nâng cấp chuyển sinh"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§e Để Lên Rank Bạn Dùng Lệnh §f(§c/rank§f)§e Để Lên Rank"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§b Để cường hóa vật phẩm sử dụng §f(§c/cuonghoa§f)"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Bạn có thể tạo quân đoàn bằng cách dùng lệnh §f(§c/quandoan§f)"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Hãy donate cho máy chủ"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Bạn muốn mua vật phẩm để sử dụng dùng lệnh §f(§c/shop§f)"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Bạn có thể buôn lậu để nhận xu bằng lệnh §f(§c/buonlau§f) §eLưu Ý:§6 Buôn Lậu Có Thể Ở Tù Đấy Nhé"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Dùng Lệnh §f(§c/choden§f)§a để mua vật phẩm vip"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Dùng Lệnh §f(§c/buyvip§f) §aĐể Mua VIP"
+ - "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§e Website:§c bit.do/vote-minepig"
+ 
+# Popup broadcast
+popup-broadcast:
+ # Enable popup broadcast
+ enabled: false
+ # Popup broadcast interval (in seconds)
+ time: 15
+ # Popup duration (in seconds)
+ duration: 5
+ # Command /sendpopup format
+ command-format: "&a{SENDER}&e>>&f {MESSAGE}"
+ # Popup broadcast messages
+ messages:
+  - "&aWelcome to your server"
+  - "&d{TOTALPLAYERS} &eof &d{MAXPLAYERS} &eonline"
+  - "&bCurrent Time: &a{TIME}"
+# Title broadcast
+title-broadcast:
+ # Enable title broadcast
+ enabled: false
+ # Title broadcast interval
+ time: 30
+ # Command /sendtitle format
+ command-format: "&d{MESSAGE}"
+ # Title broadcast messages
+ messages:
+  - "&aWelcome to your server!{SUBTITLE}&bGood game!"
+  - "&eHello player!"
+...

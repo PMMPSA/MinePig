@@ -1,0 +1,9 @@
+name: NhiemVu
+main: phuongaz\Quest\Quest
+version: 0.2
+author: PIG
+api: 3.9.0
+load: POSTWORLD
+commands:
+  nhiemvu:
+    description: Hệ Thống Nhiệm Vụ

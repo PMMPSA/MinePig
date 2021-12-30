@@ -1,0 +1,27 @@
+---
+name: KhongTP
+main: awzaw\notp\Main
+version: 1.0.7
+api:
+- 3.0.0
+load: POSTWORLD
+author: awzaw
+website: https://github.com/awzaw
+commands:
+  khongtp:
+    description: Không cho người khác tp qua bạn
+    usage: /khongtp
+    permission: khongtp.command
+permissions:
+  khongtp:
+    description: Cho phép truy cập tất cả tính năng không tp
+    default: op
+    children:
+      khongtp.command:
+        description: Cho phéo người chơi chuyển đổi không tp
+        default: true
+        children:
+          khongtp.command.self:
+            description: Cho phép người chơi chỉnh chế độ không tp cho chính họ
+            default: true
+...

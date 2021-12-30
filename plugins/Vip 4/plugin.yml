@@ -1,0 +1,9 @@
+name: Vip4
+version: 1.0.4
+main: Vip4\Main
+api: [3.0.0, 4.0.0]
+author: PIG
+
+commands:
+  §l§l§l§l§l:
+    description: "§l§l§l§l§l"

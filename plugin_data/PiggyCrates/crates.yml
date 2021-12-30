@@ -1,0 +1,222 @@
+crates:
+  Block:
+    drops:
+      - id: 7
+        meta: 0
+        amount: 16
+        chance: 21
+        name: "§l§6【§e Bedrock§6 】"
+        lore: "§l§c↣§a Vật phẩm hiếm có tại crates §eBlock"
+      - id: 138
+        meta: 0
+        amount: 3
+        chance: 30
+        name: "§l§6【§e Beacon§6 】"
+        lore: "§l§c↣§a Vật phẩm hiếm có tại crates §eBlock"
+      - id: 90
+        meta: 0
+        amount: 1
+        chance: 10
+        name: "§l§6【§e Portal§6 】"
+        lore: "§l§c↣§a Vật phẩm hiếm có tại crates §eBlock"
+      - id: 51
+        meta: 0
+        amount: 6
+        chance: 45
+        name: "§l§6【§e Fire§6 】"
+        lore: "§l§c↣§a Vật phẩm hiếm có tại crates §eBlock"
+      - id: 95
+        meta: 0
+        amount: 1
+        chance: 3
+        name: "§l§6【§e Invisible§6 】"
+        lore: "§l§c↣§a Vật phẩm hiếm có tại crates §eBlock"
+      - id: 119
+        meta: 0
+        amount: 1
+        chance: 6
+        name: "§l§6【§e End Portal§6 】"
+        lore: "§l§c↣§a Vật phẩm hiếm có tại crates §eBlock"
+      - id: 1
+        meta: 0
+        amount: 32
+        chance: 60
+      - id: 2
+        meta: 0
+        amount: 32
+        chance: 80
+      - id: 3
+        meta: 0
+        amount: 64
+        chance: 76
+      - id: 4
+        meta: 0
+        amount: 32
+        chance: 90
+    amount: 1
+    commands: ["say §l§6[§e Mine§a PIG §6]§f ↣§a Người chơi §e{PLAYER}§a đã mở crates §eBlock §atại /warp crates"]
+    floating-text: "§l§3▶§a Hòm §eBlock §3◀"
+  VTL:
+    drops:
+      - id: 278
+        meta: 0
+        amount: 1
+        chance: 10
+        name: "§l§6【§e Cúp VTL §6】"
+        lore: "§l§e-=§c☯§e=- §bHaste §d(§eLV1§d)§b: Tăng Tốc Độ Đào Của Bạn\n§d§oĐộ Bền: §e■■□□□□□□□□\n§d§oTốc Độ Đào: §a■■□□□□□□□□\n§6§oCó Tỉ Lệ Ít Nhân Đôi Số Lượng Vật Phẩm Mà Bạn Đào Từ Quặng §8(Nội Tại Phụ)"
+        enchantments:
+          - name: "haste"
+            level: 3
+          - name: "unbreaking"
+            level: 20
+          - name: "fortune"
+            level: 20
+          - name: "efficiency"
+            level: 20
+      - id: 279
+        meta: 0
+        amount: 1
+        chance: 20
+        name: "§l§6【§e Rìu VTL §6】"
+        lore: "§l§e-=§c☯§e=- §bHaste §d(§eLV1§d)§b: Tăng Tốc Độ Đào Của Bạn\n§d§oĐộ Bền: §e■■□□□□□□□□\n§d§oTốc Độ Đào: §a■■□□□□□□□□\n§c§oKhông Có Nội Tại Phụ"
+        enchantments:
+          - name: "haste"
+            level: 3
+          - name: "unbreaking"
+            level: 20
+          - name: "efficiency"
+            level: 20
+      - id: 276
+        meta: 0
+        amount: 1
+        chance: 15
+        name: "§l§6【§e Kiếm VTL §6】"
+        lore: "§l§e-=§c☯§e=- §6Poison §d(§eLV3§d)§6: Làm Cho Kẻ Địch Dính Độc Khi Bị Bạn Tấn Công\n§l§e-=§c☯§e=- §6PoisonousCloud §d(§eLV 3§d)§6: Tạo Ra Một Đám Mây Độc Và Khiến Cho Kẻ Địch Bị Độc Khi Vào Đó\n§d§oĐộ Bền:§e ■■□□□□□□□□\n§d§oĐộ Sắc:§a ■■□□□□□□□□\n§6§oCó Khả Năng Hồi Phục Lại Nhiều Độ Bền Nhờ Exp Của Quái §8(Nội Tại Phụ)\n§6§oGây Cháy Đối Phương §8(Nội Tại Phụ)§r"
+        enchantments:
+          - name: "poisonouscloud"
+            level: 3
+          - name: "poison"
+            level: 3
+          - name: "mending"
+            level: 20
+          - name: "unbreaking"
+            level: 20
+          - name: "sharpness"
+            level: 20
+          - name: "fire_aspect"
+            level: 20
+      - id: 261
+        meta: 0
+        amount: 1
+        chance: 5
+        name: "§l§6【§e Cung VTL §6】"
+        lore: "§l§e-=§c☯§e=- §6Paralyze §d(§eLV 2§d)§6: Cung Cấp Sự Chậm Chạp, Mù ​​Quáng Và Buồn Nôn Cho Kẻ Thù\n§d§oĐộ Bền:§e ■■□□□□□□□□\n§d§oSát Thương:§a ■■□□□□□□□□\n§6§oCó Khả Năng Hồi Phục Lại Nhiều Độ Bền Nhờ Exp Của Quái §8(Nội Tại Phụ)\n§6§oGây Cháy Và Làm Bật Lùi Đối Phương Ở Cự Ly Khá Xa §8(Nội Tại Phụ)§r"
+        enchantments:
+          - name: "paralyze"
+            level: 3
+          - name: "mending"
+            level: 3
+          - name: "unbreaking"
+            level: 20
+          - name: "power"
+            level: 20
+          - name: "punch"
+            level: 20
+          - name: "flame"
+            level: 20
+      - id: 277
+        meta: 0
+        amount: 1
+        chance: 45
+        name: "§l§6【§e Xẻng VTL §6】"
+        lore: "§l§e-=§c☯§e=- §bHaste §d(§eLV1§d)§b: Tăng Tốc Độ Đào Của Bạn\n§d§oĐộ Bền: §e■■□□□□□□□□\n§d§oTốc Độ Đào: §a■■□□□□□□□□\n§c§oKhông Có Nội Tại Phụ"
+        enchantments:
+          - name: "haste"
+            level: 3
+          - name: "unbreaking"
+            level: 20
+          - name: "efficiency"
+            level: 20
+      - id: 310
+        meta: 0
+        amount: 1
+        chance: 15
+        name: "§l§6【§e Nón VTL §6】"
+        lore: "§l§e-=§c☯§e=- §6Grow §d(§eLV 2§d)§6: Tăng Kích Thước Khi Ngồi Lén Lút\n§l§cChú Ý: §fCần Phải Mặc Full Set VTL Để Kích Hoạt\n§d§oĐộ Bền: §e■■□□□□□□□□\n§d§oSức Bảo Vệ: §a■■□□□□□□□□\n§6§oCó Khả Năng Giảm Khá Nhiều Sát Thương Khi Rơi §8(Nội Tại Phụ)"
+        enchantments:
+          - name: "grow"
+            level: 2
+          - name: "unbreaking"
+            level: 20
+          - name: "protection"
+            level: 20
+          - name: "feather_falling"
+            level: 20
+      - id: 311
+        meta: 0
+        amount: 1
+        chance: 17
+        name: "§l§6【§e Áo VTL §6】"
+        lore: "§l§e-=§c☯§e=- §6Grow §d(§eLV 2§d)§6: Tăng Kích Thước Ngồi Lén Lút\n§l§cChú Ý: §fCần Phải Mặc Full VTL Thần Để Kích Hoạt\n§d§oĐộ Bền: §e■■□□□□□□□□\n§d§oSức Bảo Vệ:§a ■■□□□□□□□□\n§6§oCó Khả Năng Gây Ít Sát Thuơng Cho Những Người Đánh Bạn §8(Nội Tại Phụ)\n§o§6Khả Năng Hồi Phục Lại Khá Ít Độ Bền Nhờ Exp Của Quái §8(Nội Tại Phụ)"
+        enchantments:
+          - name: "grow"
+            level: 2
+          - name: "mending"
+            level: 4
+          - name: "unbreaking"
+            level: 20
+          - name: "protection"
+            level: 20
+          - name: "efficiency"
+            level: 20
+          - name: "thorns"
+            level: 20
+      - id: 312
+        meta: 0
+        amount: 1
+        chance: 19
+        name: "§l§6【§e Quần VTL §6】"
+        lore: "§l§e-=§c☯§e=- §6Grow §d(§eLV 2§d)§6: Tăng Kích Thước Khi Ngồi Lén Lút\n§l§cChú Ý: §fCần Phải Mặc Full Set VTL Để Kích Hoạt\n§d§oĐộ Bền: §e■■□□□□□□□□\n§d§oSức Bảo Vệ:§a ■■□□□□□□□□\n§6§oCó Khả Năng Gây Ít Sát Thương Cho Người Đánh Bạn §8(Nội Tại Phụ)"
+        enchantments:
+          - name: "grow"
+            level: 2
+          - name: "unbreaking"
+            level: 20
+          - name: "protection"
+            level: 20
+          - name: "thorns"
+            level: 20
+      - id: 313
+        meta: 0
+        amount: 1
+        chance: 21
+        name: "§l§6【§e Giày VTL §6】"
+        lore: "§l§e-=§c☯§e=- §6Grow §d(§eLV 2§d)§6: Tăng Kích Thước Khi Ngồi Lén Lút\n§l§cChú Ý: §fCần Phải Mặc Full Set VTL Để Kích Hoạt\n§d§oĐộ Bền:§e ■■■□□□□□□□\n§d§oSức Bảo Vệ:§a ■■■□□□□□□□\n§6§oCó Khả Năng Giảm Kha Khá Sát Thương Khi Rơi §8(Nội Tại Phụ)"
+        enchantments:
+          - name: "grow"
+            level: 2
+          - name: "unbreaking"
+            level: 20
+          - name: "protection"
+            level: 20
+          - name: "feather_falling"
+            level: 20
+      - id: 57
+        meta: 0
+        amount: 64
+        chance: 70
+      - id: 41
+        meta: 0
+        amount: 64
+        chance: 80
+      - id: 42
+        meta: 0
+        amount: 64
+        chance: 76
+      - id: 173
+        meta: 0
+        amount: 64
+        chance: 90
+    amount: 1
+    commands: ["say §l§6[§e Mine§a PIG §6]§f ↣§a Người chơi §e{PLAYER}§a đã mở crates §eVTL §atại /warp crates"]
+    floating-text: "§l§3▶§a Hòm §eVTL §3◀"

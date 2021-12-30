@@ -1,0 +1,47 @@
+---
+- name: §l§c•§e MINION BOSS §c•
+  skin: Minion
+  maxhealth: 2000
+  damage: 10
+  speed: 1
+  posX: 227.5137
+  posY: 65
+  posZ: 239.5443
+  level: DungeonJZ
+  drops:
+  - "0:0:1"
+  scale: 1
+  commands:
+  - key Block 2 {player}
+  - boss cooldown 0 600
+- name: §l§c•§e GOBLIN BOSS §c•
+  skin: goblin
+  maxhealth: 2000
+  damage: 18
+  speed: 1
+  posX: 254.4925
+  posY: 66
+  posZ: 215.5253
+  level: DungeonJZ
+  drops:
+  - "0:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 1 600
+  - key VTL 2 {player}
+- name: §l§c•§e COCKATRICE BOSSN§c •
+  skin: cockatrice
+  maxhealth: 2000
+  damage: 30
+  speed: 1
+  posX: 259.4826
+  posY: 64
+  posZ: 279.4984
+  level: DungeonJZ
+  drops:
+  - "0:0:1"
+  scale: 1
+  commands:
+  - boss cooldown 2 600
+  - addkey {player} 2
+...

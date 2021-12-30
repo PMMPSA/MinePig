@@ -1,0 +1,36 @@
+commands:
+  use-in-game: "{RED}Please use this in-game."
+  crate:
+    error:
+      invalid-crate: "{RED}Invalid crate."
+    success: "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Vui lòng tap vào chest để tạo rương"
+    creation-mode:
+      not-in-mode: "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§c Vui lòng chuyển sang chế độ sinh tồn để có thể mở rương!"
+      cancelled: "{GREEN}Crate creation cancelled."
+  key:
+    error:
+      invalid-player: "{RED}Invalid player."
+      invalid-crate: "{RED}Invalid crate type."
+      not-numeric: "{RED}Amount must be numeric."
+    success:
+      sender: "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Bạn đã được nhận key §e{CRATE}"
+      target: "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Bạn đã cho người chơi §e{TARGET}§a key §e{CRATE}"
+  keyall:
+    error:
+      invalid-crate: "{RED}Invalid crate type."
+      not-numeric: "{RED}Amount must be numeric."
+    success:
+      sender: "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Bạn đã được nhận key §e{CRATE}"
+      target: "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Đã gửi key §e{CRATE}§a cho tất cả người chơi đang trực tuyến"
+crates:
+  menu-name: "§l§e•§a Hòm §c{CRATE}§e •"
+  preview:
+    item:
+      name: "§l§a{COUNT}x §l§e{ITEM}"
+      lore: "§l§c↣§a Tỷ Lệ:§e {CHANCE}%"
+  error:
+    invalid-crate: "Error"
+    currently-opened: "§l§aĐang Mở Crate"
+    inventory-full: "§l§cBạn phải có §e{COUNT}§c vị trí trống trong kho đồ"
+  success:
+    crate-created: "§l§c【 §fvιcтoʀʏ §eoғ §6ʟᴇԍᴇɴᴅ §c】§a Đã tạo thành công crate {CRATE}"

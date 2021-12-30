@@ -1,0 +1,8 @@
+name: PetsMenu
+api: 3.0.0
+main: pet\Main
+version: 1.0.0
+author: PIG
+commands:
+  pets:
+   description: Mở Giao Diện Pets

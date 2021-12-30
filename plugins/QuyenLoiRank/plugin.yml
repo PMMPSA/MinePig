@@ -1,0 +1,9 @@
+name: QuyenRankLoi
+version: 1.0.1
+main: Hihi\Main
+api: [3.0.0, 4.0.0]
+author: PIG
+
+commands:
+  §a§a§b:
+    description: "§l§l§f§f"

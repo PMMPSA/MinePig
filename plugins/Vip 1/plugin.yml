@@ -1,0 +1,9 @@
+name: Vip1
+version: 1.0.1
+main: Vip1\Main
+api: [3.0.0, 4.0.0]
+author: PIG
+
+commands:
+  §l§l§f§f:
+    description: "§l§l§f§f"

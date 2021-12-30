@@ -1,0 +1,5 @@
+name: SCoinAPI
+version: 1.02
+api: 3.0.0
+main: SCoinAPI\Loader
+author: K27

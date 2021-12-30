@@ -1,0 +1,16 @@
+---
+userName: NhiCute2k41233
+group: Admin
+permissions:
+- blockpets.command.togglepet
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+- blockpets.command.changepetname.use
+- minion.0
+- royalPass.Tungsten.Perm
+worlds: []
+time: -1
+expTime: -1
+...

@@ -1,0 +1,20 @@
+#Form
+Title-form: "§l§9⚫§a Nhiệm Vụ §9⚫"
+
+Button1: "§l§e•§a Nhận §e•"
+Button2: "§l§e•§c Hủy §e•"
+
+Quests-button: "§l§9⚫§e Nhận Nhiệm Vụ §9⚫"
+Complete-button: "§l§9⚫§e Báo Cáo Nhiệm Vụ §9⚫"
+Player-quests-button: "§l§9⚫§e Nhiệm Vụ Của Bạn §9⚫"
+
+Cancel-quest-button: "§l§e•§c Bỏ Nhiệm Vụ §e•"
+No-quest-button: "§l§9⚫§e Nhận Nhiệm Vụ §9⚫"
+#Message
+Succes-cancel-quest: "§l§a[§e Mine §dPIG §a]§c Nhiệm vụ đã hủy hoàn tất"
+No-quest: "§l§9⚫§e Nhận Nhiệm Vụ §9⚫"
+Have-quest: "§l§9⚫§e Bạn Có 1 Nhiệm Vụ §9⚫"
+Need-item: "§l§a[§e Mine §dPIG §a]§l§c Để báo cáo nhiệm vụ bạn cần có vật phẩm nhiệm vụ trong tay"
+Quantity-item: "§l§a[§e Mine §dPIG §a]§c Không đủ vật phẩm để báo cáo nhiệm vụ..!"
+Take-quest: "§l§c↣§a Đã nhận nhiệm vụ§f: "
+

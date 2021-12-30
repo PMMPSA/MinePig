@@ -1,0 +1,10 @@
+---
+userName: MGCPro2982
+group: VIPV
+permissions:
+- blockpets.command.togglepet
+- blockpets.command.changepetname.use
+worlds: []
+time: -1
+expTime: -1
+...
